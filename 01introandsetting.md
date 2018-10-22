@@ -32,3 +32,10 @@ index.html문서를 열어 아래와 같이 작성합니다.
 </body>
 </html>
 ```
+
+부트스트랩을 사용하기 위해서는 css, js 파일 뿐만 아니라 proper, jquery파일을 링크해야 합니다.
+html 문서의 head안에 bootstrap.min.css, body 안에 jquery-3.3.1, popper.js, bootstrap.min.js를 삽입합니다.
+
+위의 파일들의 CDN 주소를 확인하려면 [부트스트랩 웹페이지](https://getbootstrap.com/)에서 가능합니다.
+
+부트스트랩 버전이 바뀌면 해당 CDN의 주소도 변경되니 CDN링크를 사용할 때는 웹 페이지에서 먼저 확인하시기 바랍니다.
