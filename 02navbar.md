@@ -63,7 +63,7 @@ bg-white 와 같은 클래스 이름은 네비게이션 뿐만 아니라 다른 
 <nav class="navbar bg-white nav-dark">
   <a class="navbar-brand" href="#">
     <button type=button class="btn btn-lg btn-outline-primary">CoCo</button>
-  </a>	 
+  </a>
 </nav>
 ```
 보통은 회사의 로고 이미지를 사용하는데 collectivecollege에서는 로고가 없기 때문에 ㅠㅠ 버튼 태그를 사용했습니다.
@@ -106,7 +106,7 @@ nav 태그에 아래와 같이 변경합니다.
   <button class="navbar-toggler bg-primary " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>	 
-  </nav>
+</nav>
 ```
 
 button 태그에 클래스에 navbar-toggler, br-primary가 적용되었습니다. bg-primary는 배경색을 지정하는 것이며 navbar-toggler는 토클러 역할을 하는 것이라고 부트스트랩에 알려주는 역할을 합니다. 즉 해당 버튼을 클릭하면 네비게이션 항목이 나타난다는 말입니다. data-toggle의 값으로 collapse로 지정하여서 collapse(펼치고 숨기는) 기능을 설정합니다.
@@ -229,14 +229,14 @@ css 폴더를 만들고 안에 style.css 파일을 생성하고 아래와 같이
 <body>
 <header>
   <nav class="navbar navbar-expand-lg fixed-top ">
-	  <a class="navbar-brand" href="#">
-	  	<button type=button class="btn btn-lg btn-outline-primary">CoCo</button>
-	  </a>
-	  <button class="navbar-toggler bg-primary " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-	    <span class="navbar-toggler-icon"></span>
-	  </button>
+    <a class="navbar-brand" href="#">
+      <button type=button class="btn btn-lg btn-outline-primary">CoCo</button>
+    </a>
+    <button class="navbar-toggler bg-primary " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-	  <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-white">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-white">
       <a class="navbar-brand" href="#">
         <button type=button class="btn btn-lg btn-outline-primary">CoCo</button>
       </a>
