@@ -81,10 +81,10 @@ mt-1 은 margin-top을 말합니다.
       </p>
     </div>
     <div class="col-md-6 text-md-center pr-md-5 order-1 mt-1">
-    <h1 class="text-primary ">Collective College</h1>
-    <br>
+      <h1 class="text-primary ">Collective College</h1>
+      <br>
     </div>
-    </div>
+  </div>
 </div>
 ```
 
