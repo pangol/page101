@@ -9,7 +9,7 @@ page101은 부트스트랩을 이용해서 원페이지 만드는 과정을 학�
 ## 목차
 - [부트스트랩 설정을 위한 html 문서 작성](01introandsetting.md)
 - [navbar를 이용한 네비게이션 만들기](02navbar.md)
-- col, 그리드를 이용한 메인 만들기
+- [col, 그리드를 이용한 메인 만들기](03main.md)
 - card를 이용한 프로세스 만들기
 - card-deck을 이용한 커리큘럼 만들기
 - col, card를 이용한 프로젝트 만들기
