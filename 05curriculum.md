@@ -150,10 +150,8 @@ modal-footer에는 닫기 버튼을 만들어줍니다.
 
 ```
 <div class="curriculum container" id="curriculum">
-
 	<div class="card-deck">
 	  <div class="card border border-primary mb-3 ">
-	    
 	    <div class="card-body">
 	      <h5 class="card-title">Web</h5>
 				<p class="card-text">웹을 만들 때 필요한 지식을 배웁니다. <br>
@@ -196,17 +194,14 @@ modal-footer에는 닫기 버튼을 만들어줍니다.
 				  </div>
 				</div>
 	    </div>
-
 	  </div>
 	  <div class="card border border-primary mb-3 ">
-	    
 	    <div class="card-body">
 	      <h5 class="card-title">BlockChain</h5>
 	      <p class="card-text">블록체인 개념, 아키텍쳐 설계, Dapp만들기를 배우는 과정입니다.</p>
 	      <p class="card-text d-flex justify-content-end">
 	      	<button type="button" class="btn btn-outline-primary btn-xs" data-toggle="modal" data-target="#readMore2">더 보기</button>
 	      </p>
-
 	      <!-- Modal -->
 				<div class="modal fade" id="readMore2" tabindex="-1" role="dialog" aria-labelledby="readMore2" aria-hidden="true">
 				  <div class="modal-dialog" role="document">
@@ -241,12 +236,9 @@ modal-footer에는 닫기 버튼을 만들어줍니다.
 				    </div>
 				  </div>
 				</div>
-
 	    </div>
-
 	  </div>
 	  <div class="card border border-primary mb-3 ">
-	    
 	    <div class="card-body">
 	      <h5 class="card-title">인공지능과 데이터 분석</h5>
 	      <p class="card-text">데이터 분석과 인공지능에 필요한 지식을 배우는 과정입니다.</p>
