@@ -153,9 +153,9 @@ modal-footer에는 닫기 버튼을 만들어줍니다.
 <div class="curriculum container" id="curriculum">
   <div class="card-deck">
     <div class="card border border-primary mb-3 ">
-	    <div class="card-body">
-	      <h5 class="card-title">Web</h5>
-		    <p class="card-text">웹을 만들 때 필요한 지식을 배웁니다.
+      <div class="card-body">
+        <h5 class="card-title">Web</h5>
+        <p class="card-text">웹을 만들 때 필요한 지식을 배웁니다.
         <br>
         프런트엔드, 백엔드, 인프라를 다루는 과정입니다.</p>
         <p class="card-text d-flex justify-content-end">
