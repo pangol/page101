@@ -15,4 +15,6 @@ page101은 부트스트랩을 이용해서 원페이지 만드는 과정을 학�
 - [col, card, d-flex를 이용한 프로젝트 만들기](06project.md)
 - [img-fluid, img-thumbnail을 이용한 갤러리 만들기](07gallery.md)
 - [form을 이용한 연락하기 만들기](08form.md)
-- 푸터 만들기
+- [푸터 만들기](09footer.md)
+
+## 오타나 건의사항, 새로운 예제가 있으시다면 언제든지 플리퀘 주세요 :)
