@@ -13,6 +13,6 @@ page101은 부트스트랩을 이용해서 원페이지 만드는 과정을 학�
 - [card를 이용한 프로세스 만들기](04process.md)
 - [card-deck을 이용한 커리큘럼 만들기](05curriculum.md)
 - [col, card, d-flex를 이용한 프로젝트 만들기](06project.md)
-- 갤러리 만들기
+- [img-fluid, img-thumbnail을 이용한 갤러리 만들기](07gallery.md)
 - 연락하기 만들기
 - 푸터 만들기
