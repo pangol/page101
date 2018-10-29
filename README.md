@@ -20,4 +20,4 @@ page101은 부트스트랩을 이용해서 원페이지 만드는 과정을 학�
 ## 오타나 건의사항, 새로운 예제가 있으시다면 언제든지 플리퀘 주세요 :)
 
 # collective college의 소식은 아래 페이스북 페이지에서 만나실 수 있습니다
-[collevtic college, 구구컬리지 페이스북 페이지 가기](https://www.facebook.com/99colleage)
+[collective college, 구구컬리지 페이스북 페이지 가기](https://www.facebook.com/99colleage)
