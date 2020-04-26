@@ -1,6 +1,6 @@
 # 연락하기 영역 만들기
 
-http://collectivecollege.net 에서 연락하기 영역을 만들어보겠습니다.
+https://99college.org/ 에서 연락하기 영역을 만들어보겠습니다.
 form 을 꾸미는 방법에 대해서 알아봅니다.
 
 ## 틀 잡기, justify-content-center

@@ -1,6 +1,6 @@
 # project 영역 만들기
 
-http://collectivecollege.net 에서 project 영역을 만들어보겠습니다.
+https://99college.org/ 에서 project 영역을 만들어보겠습니다.
 col을 이용해서 영역을 나누고 브라우저 크기가 클 때는 이미지를 우측으로 배치하고
 작을 때는 이미지가 사라지게 하는 기능이 들어가 있습니다.
 
