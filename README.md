@@ -1,7 +1,8 @@
 # one page101
 
 page101은 부트스트랩을 이용해서 원페이지 만드는 과정을 학습합니다.
-실제 동작하는 웹 페이지를 보시려면 https://pangol.github.io/page101/으로 접속하면 됩니다.
+실제 동작하는 웹 페이지를 보시려면 아래 링크에서 확인할 수 있습니다.
+https://pangol.github.io/page101/  
 
 ## 최소 요구사항
 - html, css 기초 지식
