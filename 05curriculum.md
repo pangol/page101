@@ -1,6 +1,6 @@
 # curriculum 영역 만들기
 
-http://collectivecollege.net 에서 curriculum 영역을 만들어보겠습니다
+https://99college.org/ 에서 curriculum 영역을 만들어보겠습니다
 이 번에는 card-deck 을 사용해서 영역을 나누는 방법과 modal을 사용하는 방법에 대해서 배웁니다.
 modal은 버튼 클릭 시 팝업창이 나타나는 기능을 말합니다.
 

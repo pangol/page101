@@ -1,6 +1,6 @@
 # 푸터 만들기
 
-http://collectivecollege.net 에서 푸터 영역을 만듭니다.
+https://99college.org/ 에서 푸터 영역을 만듭니다.
 
 ## 바로 작성하기
 
