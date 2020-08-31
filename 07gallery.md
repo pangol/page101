@@ -1,6 +1,6 @@
 # project 영역 만들기
 
-https://99college.org/ 에서 gallery 영역을 만들어보겠습니다.
+https://pangol.github.io/page101/ 에서 gallery 영역을 만들어보겠습니다.
 image 크기를 조절하는 img-fluid, img-thumbnail을 사용합니다.
 
 ## 틀 잡기 - container, row

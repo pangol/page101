@@ -1,6 +1,6 @@
 # main 만들기
 
-이 번에는 https://99college.org/ 에서 메인영역을 만들어볼겁니다.
+이 번에는 https://pangol.github.io/page101/ 에서 메인영역을 만들어볼겁니다.
 collevtice college 글이 왼편에 있고 설명하는 글이 오른편에 표시되는 형태입니다.
 
 ## container, row 만들기

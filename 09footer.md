@@ -1,6 +1,6 @@
 # 푸터 만들기
 
-https://99college.org/ 에서 푸터 영역을 만듭니다.
+https://pangol.github.io/page101/ 에서 푸터 영역을 만듭니다.
 
 ## 바로 작성하기
 

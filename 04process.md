@@ -1,6 +1,6 @@
 # process 영역 만들기
 
-https://99college.org/ 에서 process 영역을 만들어보겠습니다
+https://pangol.github.io/page101/ 에서 process 영역을 만들어보겠습니다
 이 번에는 container-fluid, card-column 을 사용해서 영역을 나눕니다.
 
 ## 틀 잡기, card-columns
